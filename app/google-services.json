@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390606223943",
+    "project_id": "instagrambyquang",
+    "storage_bucket": "instagrambyquang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390606223943:android:4bfdc323f1013c83710f62",
+        "android_client_info": {
+          "package_name": "com.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390606223943-ha4obvb2l420q459oc9pkis6u2vqdk7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-1pPFeSgNFVDdOxcAMz55aoTZWiyWs9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390606223943-ha4obvb2l420q459oc9pkis6u2vqdk7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
